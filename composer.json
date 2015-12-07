@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ddeboer/tesseract": "^1.1",
+        "guzzle/guzzle": "^3.9",
+        "behat/mink": "^1.7",
+        "behat/mink-goutte-driver": "^1.2"
+    }
+}
